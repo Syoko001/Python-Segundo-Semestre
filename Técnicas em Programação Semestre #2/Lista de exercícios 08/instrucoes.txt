@@ -1,0 +1,9 @@
+1.Pesquise na documentação de python a respeito da função mkdir() da biblioteca OS, através dela crie uma pasta no mesmo diretório em que você está trabalhando no VS.
+
+2.Crie um arquivo txt vazio dentro dela.
+
+3.Adicione o seu nome no arquivo txt.
+
+4.Crie mais um arquivo txt vazio.
+
+5.Crie um código para excluir os arquivos e logo após excluir o diretório. Como dito na aula anterior uma pasta só pode ser excluída após a exclusão dos arquivos contidos na mesma. Use a imaginação para criar um loop de iteração e verificar se todos os arquivos foram apagados.

@@ -1,0 +1,1 @@
+arquivo = open("Lista de exercícios 08/NovaPasta/arquivo2.txt", "w")
