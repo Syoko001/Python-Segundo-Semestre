@@ -1,0 +1,13 @@
+1. Crie um arquivo chamado "meu_arquivo.txt" e escreva seu nome dentro dele.
+
+2. Crie um arquivo chamado "dados.txt" e escreva três linhas de texto dentro dele.
+
+3. Abra o arquivo "dados.txt" em modo de leitura e exiba o conteúdo dele.
+
+4. Abra o arquivo "dados.txt" em modo de leitura e exiba o conteúdo dele por linha.
+
+5. Abra o arquivo "dados.txt" em modo de leitura e conte o número de linhas.
+
+6. Abra o arquivo "dados.txt" em modo de leitura e exiba o conteúdo da terceira linha.
+
+7. Crie um arquivo chamado "lista.txt" e escreva uma lista de números dentro dele.

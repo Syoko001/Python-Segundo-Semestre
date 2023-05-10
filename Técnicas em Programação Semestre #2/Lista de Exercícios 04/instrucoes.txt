@@ -1,0 +1,34 @@
+1 - Escreva uma função que recebe uma lista ou string x e retorna x concatenada com ela mesma.
+
+2 - Escreva uma função que recebe como entrada uma lista de números e retorna a quantidade de elementos que aparecem uma única vez na lista.
+
+3 - Cria uma lista chamada minha_lista com os seguintes itens: 76, 92.3, “oi”, True, 4, 76.
+
+4 - Escreva comandos para:
+
+    a) Inserir “pera” e 76 no final da lista.
+
+    b) Inserir o valor “gato” na posição de índice 3.
+
+    c) Inserir o valor 99 no início da lista.
+
+    d) Encontrar o índice de “oi”.
+
+    e) Contar o número de ocorrências de 76 na lista.
+
+    f) Remover a primeira ocorrência de 76 da lista.
+
+5 - Crie uma lista contendo 100 números inteiros aleatórios entre 0 e 1000 (usando iteração, ´´append´´ e o módulo random). Escreva uma função media que recebe uma lista de números como parâmetros e retorna a média dos valores na lista.
+
+6 - Escreva uma função que recebe a lista de inteiros do exercício anterior e retorna o maior valor na lista.
+
+7 - Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
+
+8 - Cria um programa que receba uma lista de números inteiros e retorne:
+    a) a quantidade números ímpares na lista.
+
+    b) a soma dos números pares na lista.
+
+    c) a soma dos números negativos na lista.
+
+9 - Escreva uma função que recebe uma lista de palavras (strings) e retorna o número de palavras na lista que tem comprimento 5.
