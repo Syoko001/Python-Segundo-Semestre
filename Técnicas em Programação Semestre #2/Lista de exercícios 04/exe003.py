@@ -1,0 +1,1 @@
+minha_lista= [76,92.3,"oi",True,4,76]
