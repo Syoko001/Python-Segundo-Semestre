@@ -1,0 +1,12 @@
+1. Crie uma função que insira o nome dos cinco alunos em um arquivo aluno.txt.
+
+2. Contador de Palavras: Escreva uma função que receba o nome de um arquivo como parâmetro e conte o número de palavras no arquivo. Retorne o resultado.
+
+Pesquise a respeito da função split() e como ela pode te auxiliar a resolver está questão.
+
+3. Buscador de Palavras: Escreva uma função que receba o nome de uma rquivo e uma palavra como parâmetros. A função deve buscar a palavra no arquivo e retornar o número de ocorrências encontradas.
+
+4. Lista de Compras: Escreva uma função que receba o nome de um arquivo como parâmetro e solicite ao usuário que digite itens de uma lista de compras. Os itens devem ser adicionados ao arquivo, um item por linha. A função deve permitir que o usuário termine a lista digitando 'fim'.
+
+5. Escreva uma função que receba o nome de dois arquivos como parâmetros: o arquivo de origem e o arquivo de destino.
+A função deve copiar o conteúdo do arquivo de origem para o arquivo de destino.
